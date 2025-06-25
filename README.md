@@ -1,5 +1,10 @@
 # internship_task_2
 
+# Objective:
+Analyze a suspicious email sample to identify phishing characteristics.
+
+# Key Concepts: Phishing, email spoofing, header analysis, social engineering, threat detection
+
 Purpose of Phishing Email Analysis:-
 How to analyze Phishing emails, we can identify potential threst and identify cybercriminals from gaining access to your personal or organizational data.
 
@@ -51,5 +56,5 @@ D. Domain & IP Reputation Checker
 
 All these tools can used to check whether the emails are real or spoofed, Validate records of a domain and create analysis for testing. 
 
-Wireshark:-
-It can be used if the suspicious link was accidentally clicked. 
+Wireshark:
+Wireshark can be used if a suspicious link from a phishing email was accidentally clicked. It helps analyze network traffic to detect any malicious activity or unauthorized communication resulting from interacting with a potentially harmful email or attachment.
