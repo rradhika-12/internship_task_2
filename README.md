@@ -8,7 +8,7 @@ Analyze a suspicious email sample to identify phishing characteristics.
 Purpose of Phishing Email Analysis:-
 How to analyze Phishing emails, we can identify potential threst and identify cybercriminals from gaining access to your personal or organizational data.
 
-elements of email:-
+## elements of email:-
 sender's address
 message content
 email header
@@ -19,10 +19,12 @@ Techniques:-
 2. Analyzing message content
 3. Inspecting links and attachments
 4. examining email headers
+5. analyze attached URLs
+6. analyze professionalism 
 
 # Tools used:
 
-A. Header Analyzer
+## A. Header Analyzer
     1. Google Admin Toolbox  
     2. MxToolbox 
     3. MailHeader 
@@ -31,7 +33,7 @@ A. Header Analyzer
 headers are copied from (show original) option in the email and pasted to the above mentioned tools. 
 Results can be seen in the attached screenshots.
     
-B. Link/Attachment Inspection Tools
+ ## B. Link/Attachment Inspection Tools
     1. VirusTotal
     2. URLScan.io
     3. PhishTool
@@ -40,7 +42,7 @@ B. Link/Attachment Inspection Tools
 ...Now for checking the phishing attachments, firstly, phishing files are downloaded from the github spam attachment links and pasted in the above tools for analysis.
 screenshots are there to check how it look likes.
 
-C. Email Content Analysis
+## C. Email Content Analysis
     1. Grammarly
     2. Reverso Speller
     3. Zamzar
@@ -48,7 +50,7 @@ C. Email Content Analysis
 
 ...these tools catch the spelling and grammar errors in the email body and also detect if there is unprofessional language or tone used. DecodeBase64 is used to decode the encoded scripts or attachments if phishing. 
 
-D. Domain & IP Reputation Checker
+## D. Domain & IP Reputation Checker
     1. AbuseIPDB
     2. Talos Intelligence
     3. Whois Lookup
