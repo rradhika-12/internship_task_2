@@ -45,8 +45,7 @@ screenshots are there to check how it look likes.
 ## C. Email Content Analysis
     1. Grammarly
     2. Reverso Speller
-    3. Zamzar
-    4. DecodeBase64
+    3. DecodeBase64
 
 ...these tools catch the spelling and grammar errors in the email body and also detect if there is unprofessional language or tone used. DecodeBase64 is used to decode the encoded scripts or attachments if phishing. 
 
