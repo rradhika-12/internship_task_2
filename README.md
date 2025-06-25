@@ -20,7 +20,7 @@ Techniques:-
 3. Inspecting links and attachments
 4. examining email headers
 
-Tools used:
+# Tools used:
 
 A. Header Analyzer
     1. Google Admin Toolbox  
@@ -54,7 +54,7 @@ D. Domain & IP Reputation Checker
     3. Whois Lookup
     4. IPVoid
 
-All these tools can used to check whether the emails are real or spoofed, Validate records of a domain and create analysis for testing. 
+#All these tools can used to check whether the emails are real or spoofed, Validate records of a domain and create analysis for testing. 
 
-Wireshark:
+# Wireshark:
 Wireshark can be used if a suspicious link from a phishing email was accidentally clicked. It helps analyze network traffic to detect any malicious activity or unauthorized communication resulting from interacting with a potentially harmful email or attachment.
