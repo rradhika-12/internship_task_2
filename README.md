@@ -34,3 +34,22 @@ B. Link/Attachment Inspection Tools
 
 ...Now for checking the phishing attachments, firstly, phishing files are downloaded from the github spam attachment links and pasted in the above tools for analysis.
 screenshots are there to check how it look likes.
+
+C. Email Content Analysis
+    1. Grammarly
+    2. Reverso Speller
+    3. Zamzar
+    4. DecodeBase64
+
+...these tools catch the spelling and grammar errors in the email body and also detect if there is unprofessional language or tone used. DecodeBase64 is used to decode the encoded scripts or attachments if phishing. 
+
+D. Domain & IP Reputation Checker
+    1. AbuseIPDB
+    2. Talos Intelligence
+    3. Whois Lookup
+    4. IPVoid
+
+All these tools can used to check whether the emails are real or spoofed, Validate records of a domain and create analysis for testing. 
+
+Wireshark:-
+It can be used if the suspicious link was accidentally clicked. 
