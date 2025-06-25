@@ -15,4 +15,16 @@ Techniques:-
 3. Inspecting links and attachments
 4. examining email headers
 
+Tools used:
 
+A. Header Analyzer
+    1. Google Admin Toolbox  
+    2. MxToolbox 
+    3. MailHeader 
+    4. DNSChecker
+    
+B. Link/Attachment Inspection Tools
+    1. VirusTotal
+    2. URLScan.io
+    3. PhishTool
+    4. CheckPhish.ai
