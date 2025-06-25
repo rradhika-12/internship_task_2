@@ -22,9 +22,15 @@ A. Header Analyzer
     2. MxToolbox 
     3. MailHeader 
     4. DNSChecker
+...here are all types of information checked and attached in screenshots, where spam and antispam emails are checked
+headers are copied from (show original) option in the email and pasted to the above mentioned tools. 
+Results can be seen in the attached screenshots.
     
 B. Link/Attachment Inspection Tools
     1. VirusTotal
     2. URLScan.io
     3. PhishTool
     4. CheckPhish.ai
+
+...Now for checking the phishing attachments, firstly, phishing files are downloaded from the github spam attachment links and pasted in the above tools for analysis.
+screenshots are there to check how it look likes.
